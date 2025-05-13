@@ -1,3 +1,3 @@
 # deepTL
 Hello World
-Waiting I create this porject 
+Waiting I create this project 
